@@ -1,6 +1,6 @@
 # Task 1
 
-Run the code on a linux PC for correct results. Please ensure all images are in ".jpg" format.
+Run the code on a linux PC for correct results. Please ensure all images are in `.jpg` format.
 
 ## Steps to run the code
 
