@@ -1,4 +1,4 @@
-# Task 1
+# report-card-generator
 
 Run the code on a linux PC for correct results. Please ensure all images are in `.jpg` format.
 
